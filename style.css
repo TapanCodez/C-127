@@ -1,0 +1,22 @@
+body
+{
+  background: cyan;
+}
+
+#Score
+{
+font-size:12px;
+margin-left: 22px;
+}
+
+#Timer
+{
+font-size:12px;   
+float:right;
+margin-right: 22px;
+}
+
+#Sketch to be drawn
+{
+color:red;
+}
